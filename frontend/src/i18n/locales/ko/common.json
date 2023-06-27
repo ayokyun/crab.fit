@@ -1,6 +1,6 @@
 {
   "name": "Crab Fit",
-  "tagline": "직접 만들어 봐",
+  "tagline": "직접 생성",
   "cta": "나만의 Crab Fit을 만드세요!",
   "created": "{{date}} 생성됨",
   "donate": {
@@ -36,19 +36,19 @@
       }
     },
     "theme": {
-      "label": "색조",
+      "label": "테마",
       "options": {
-        "System": "계통",
-        "Light": "연한",
-        "Dark": "짙은"
+        "System": "시스템",
+        "Light": "밝은 테마",
+        "Dark": "어두운 테마"
       }
     },
     "highlight": {
       "label": "고 가용성 강조",
       "title": "히트 맵에서 가장 높은 가용성을 돋보이게합니다.",
       "options": {
-        "Off": "꺼진",
-        "On": "켜진"
+        "Off": "비활성화",
+        "On": "활성화"
       }
     },
     "language": {
